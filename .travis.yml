@@ -9,8 +9,6 @@ notifications:
   email: false
 script:
 - export COMMITTER_EMAIL="$(git log -1 $TRAVIS_COMMIT --pretty="%cE")"
-before_deploy:
-- ./scripts/setup.sh
 deploy:
   provider: npm
   email: $NPM_EMAIL
