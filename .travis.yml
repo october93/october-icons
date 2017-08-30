@@ -10,10 +10,7 @@ notifications:
 script:
 - export COMMITTER_EMAIL="$(git log -1 $TRAVIS_COMMIT --pretty="%cE")"
 before_deploy:
-  on:
-    branch: master
-    condition: "$COMMITTER_EMAIL != $DEVOPS_EMAIL"
-  script: ./scripts/setup.sh
+  - ./scripts/setup.sh
 deploy:
   provider: npm
   email: $NPM_EMAIL
