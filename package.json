@@ -4,11 +4,18 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "node index.js"
+    "build": "babel lib -d build --copy-files",
+    "generate": "babel lib -d build --copy-files && node build/generate.js"
   },
   "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-react-native": "^3.0.2",
     "fs": "^0.0.1-security",
     "iconfont-builder": "^2.3.2",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "babel-cli": "^6.26.0"
+  },
+  "dependencies": {
+    "react-native-vector-icons": "^4.3.0"
   }
 }
