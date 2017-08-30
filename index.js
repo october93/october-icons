@@ -5,6 +5,7 @@ var fs = require('fs');
 var codepointStart = 700000
 
 var svg_icons = []
+var glyph_map = {}
 
 fs.readdir( "./src", function( err, files ) {
         if( err ) {
@@ -20,6 +21,7 @@ fs.readdir( "./src", function( err, files ) {
               file: file,
               codepoint: codepointStart + counter
             })
+            glyph_map[file.slice(0, -4)] = codepointStart + counter
             counter++
             console.log(file)
           }
@@ -39,7 +41,11 @@ fs.readdir( "./src", function( err, files ) {
               console.log("Complete")
             }
           ).catch(function (e) {
-              console.error("Error creating font:", e)
-            }
-);
-} );
+            console.error("Error creating font:", e)
+          });
+        console.log("Generating Glpyhmaps")
+
+    fs.writeFile(path.join(__dirname, 'dist/glyphmap.json'), JSON.stringify(glyph_map), (err) => {
+      if (err) throw err;
+      console.log('Created Glyphmap!');
+} ); })

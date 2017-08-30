@@ -1,8 +1,11 @@
 {
-  "name": "icons",
+  "name": "@october/october-icons",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "build": "node index.js"
+  },
   "dependencies": {
     "fs": "^0.0.1-security",
     "iconfont-builder": "^2.3.2",
