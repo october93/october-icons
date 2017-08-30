@@ -6,7 +6,7 @@
   "scripts": {
     "build": "node index.js"
   },
-  "dependencies": {
+  "devDependencies": {
     "fs": "^0.0.1-security",
     "iconfont-builder": "^2.3.2",
     "path": "^0.12.7"
