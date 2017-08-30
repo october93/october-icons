@@ -19,3 +19,5 @@ deploy:
   on:
     branch: master
     condition: "$COMMITTER_EMAIL != $DEVOPS_EMAIL"
+after_deploy:
+  - ./scripts/push.sh
