@@ -6,7 +6,7 @@
   git config --global user.email $DEVOPS_EMAIL
   git config --global user.name "October DevOps"
 
-  if ["$COMMITTER_EMAIL" != "$DEVOPS_EMAIL"]; then
+  if [ "$COMMITTER_EMAIL" != "$DEVOPS_EMAIL" ]; then
 
   echo "push changes to https://github.com/${TRAVIS_REPO_SLUG}"
 
