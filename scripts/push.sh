@@ -9,3 +9,7 @@ git checkout $TRAVIS_BRANCH
 git merge --ff-only $head_ref
 
 git push https://${GITHUB_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git $TRAVIS_BRANCH --follow-tags > /dev/null 2>&1
+
+echo "patching version.."
+
+npm version patch
