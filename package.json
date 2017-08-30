@@ -9,9 +9,7 @@
     "prepublish": "yarn generate",
     "readme": "yarn build && node build/make_readme.js"
   },
-  "pre-commit": [
-    "readme"
-  ],
+  "pre-commit": [],
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
