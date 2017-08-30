@@ -1,7 +1,7 @@
 {
   "name": "@october/october-icons",
   "version": "0.0.3",
-  "main": "index.js",
+  "main": "build/index.js",
   "license": "MIT",
   "scripts": {
     "build": "babel lib -d build --copy-files",
