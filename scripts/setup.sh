@@ -1,11 +1,12 @@
 #!/usr/bin/env bash
 
-if ["$COMMITTER_EMAIL" != "$DEVOPS_EMAIL"]; then
 
   echo "setting up git"
 
   git config --global user.email $DEVOPS_EMAIL
   git config --global user.name "October DevOps"
+
+  if ["$COMMITTER_EMAIL" != "$DEVOPS_EMAIL"]; then
 
   echo "push changes to https://github.com/${TRAVIS_REPO_SLUG}"
 
