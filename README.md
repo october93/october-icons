@@ -1,3 +1,3 @@
-# october-icons
+#October Icons
 
 OKTOBAFONTS
