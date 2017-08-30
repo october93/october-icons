@@ -1,11 +1,12 @@
 {
   "name": "@october/october-icons",
-  "version": "0.0.16",
+  "version": "0.0.15",
   "main": "build/index.js",
   "license": "MIT",
   "scripts": {
     "build": "babel lib -d build --copy-files",
-    "generate": "babel lib -d build --copy-files && node build/generate.js"
+    "generate": "babel lib -d build --copy-files && node build/generate.js",
+    "prepublish": "yarn generate"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
