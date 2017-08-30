@@ -13,7 +13,7 @@ before_deploy:
   on:
     branch: master
     condition: "$COMMITTER_EMAIL != $DEVOPS_EMAIL"
-  - ./scripts/setup.sh
+  script: ./scripts/setup.sh
 deploy:
   provider: npm
   email: $NPM_EMAIL
