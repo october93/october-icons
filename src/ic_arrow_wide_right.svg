@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_arrow_wide_right</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_arrow_wide_right">
+            <g id="Rectangle">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g></g>
+                <path d="M12.4997994,14.5 L3.15982428,11.3192324 C2.63915327,11.1428879 2.37129362,10.6044743 2.56090214,10.1176508 C2.74950743,9.63082733 3.3243523,9.38038058 3.84702975,9.55672511 L12.4997994,12.502992 L21.1535722,9.55672511 C21.67324,9.37944258 22.2500913,9.63176534 22.4386966,10.1176508 C22.6293084,10.6044743 22.3604455,11.1428879 21.8397745,11.3192324 L12.4997994,14.5 Z" id="Mask" fill="#000000" mask="url(#mask-2)" transform="translate(12.500000, 12.000000) rotate(-90.000000) translate(-12.500000, -12.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

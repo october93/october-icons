@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_car</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_car">
+            <rect id="Rectangle-1-Copy-673" x="0" y="0" width="24" height="24"></rect>
+            <path d="M16,7 L19,11 L21,11 C22.11,11 23,11.89 23,13 L23,16 L21,16 C21,17.6568 19.6569,19 18,19 C16.3431,19 15,17.6568 15,16 L9,16 C9,17.6568 7.65685,19 6,19 C4.34315,19 3,17.6568 3,16 L1,16 L1,13 C1,11.89 1.89,11 3,11 L6,7 L16,7 Z M10.5,8.5 L6.74787,8.5 L4.86398,11 L10.5,11 L10.5,8.5 Z M12,8.5 L12,11 L17.136,11 L15.2521,8.5 L12,8.5 Z M6,14.5 C5.17157,14.5 4.5,15.1716 4.5,16 C4.5,16.8284 5.17157,17.5 6,17.5 C6.82843,17.5 7.5,16.8284 7.5,16 C7.5,15.1716 6.82843,14.5 6,14.5 Z M18,14.5 C17.1716,14.5 16.5,15.1716 16.5,16 C16.5,16.8284 17.1716,17.5 18,17.5 C18.8284,17.5 19.5,16.8284 19.5,16 C19.5,15.1716 18.8284,14.5 18,14.5 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
