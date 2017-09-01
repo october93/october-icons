@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_street_cone</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_street_cone">
+            <rect id="Rectangle-1-Copy-878" x="0" y="0" width="24" height="24"></rect>
+            <polygon id="Fill-79" fill="#000000" points="19.7598 20 18.6488 16 5.3508 16 4.2398 20 1.9998 20 1.9998 22 21.9998 22 21.9998 20"></polygon>
+            <path d="M14.9634,2.7324 C14.8434,2.3004 14.4494,2.0004 14.0004,2.0004 L10.0004,2.0004 C9.5504,2.0004 9.1564,2.3004 9.0364,2.7324 L7.8514,7.0004 L16.1494,7.0004 L14.9634,2.7324 Z" id="Fill-80" fill="#000000"></path>
+            <polygon id="Fill-81" fill="#000000" points="16.7041 9 7.2961 9 5.9071 14 18.0931 14"></polygon>
+        </g>
+    </g>
+</svg>

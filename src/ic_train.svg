@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_train</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_train">
+            <rect id="Rectangle-1-Copy-643" x="0" y="0" width="24" height="24"></rect>
+            <g id="Group" transform="translate(1.000000, 4.000000)" fill="#000000">
+                <path d="M5,13 C3.896,13 3,13.896 3,15 C3,16.104 3.896,17 5,17 C6.104,17 7,16.104 7,15 C7,13.896 6.104,13 5,13" id="Fill-2817"></path>
+                <path d="M10,13 C8.896,13 8,13.896 8,15 C8,16.104 8.896,17 10,17 C11.104,17 12,16.104 12,15 C12,13.896 11.104,13 10,13" id="Fill-2818"></path>
+                <path d="M15,13 C13.896,13 13,13.896 13,15 C13,16.104 13.896,17 15,17 C16.104,17 17,16.104 17,15 C17,13.896 16.104,13 15,13" id="Fill-2819"></path>
+                <polygon id="Fill-2820" points="8 0 2 0 2 1 8 1"></polygon>
+                <path d="M18,7 L14,7 L14,4 L18,4 L18,7 Z M11,1 L11,3 L12,3 L12,6 L7,6 L8,2 L2,2 L3,6 L0,9 L0,12 L2.14,14.141 C2.512,12.906 3.644,12 5,12 C6.044,12 6.963,12.536 7.5,13.346 C8.037,12.536 8.956,12 10,12 C11.044,12 11.963,12.536 12.5,13.346 C13.037,12.536 13.956,12 15,12 C16.656,12 18,13.344 18,15 L20,15 L20,3 L21,3 L21,1 L11,1 Z" id="Fill-2821"></path>
+            </g>
+        </g>
+    </g>
+</svg>
