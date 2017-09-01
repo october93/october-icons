@@ -1,6 +1,6 @@
 {
   "name": "@october/october-icons",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "main": "build/index.js",
   "license": "MIT",
   "scripts": {
