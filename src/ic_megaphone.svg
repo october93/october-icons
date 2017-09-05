@@ -1,14 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
-    <title>ic_megaphone</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="ic_megaphone">
-            <rect id="Rectangle-1-Copy-1181" x="0" y="0" width="24" height="24"></rect>
-            <polygon id="Fill-2312" fill="#000000" points="4 7 2 7 2 15 4 15"></polygon>
-            <path d="M9.5981,17.8691 L7.0001,17.2191 L7.0001,14.9131 L11.1271,15.8301 L9.5981,17.8691 Z M20.0001,3.0001 L20.0001,4.1981 L5.0001,7.5311 L5.0001,18.0001 C5.0001,18.4591 5.3121,18.8591 5.7571,18.9711 L9.7571,19.9711 C9.8381,19.9901 9.9191,20.0001 10.0001,20.0001 C10.3101,20.0001 10.6081,19.8551 10.8001,19.6001 L13.2701,16.3071 L20.0001,17.8021 L20.0001,19.0001 L22.0001,19.0001 L22.0001,3.0001 L20.0001,3.0001 Z" id="Fill-2313" fill="#000000"></path>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path d="M4,7 L4,15 L2,15 L2,7 L4,7 Z M20.0001,3.0001 L22.0001,3.0001 L22.0001,19.0001 L20.0001,19.0001 L20.0001,17.8021 L13.2701,16.3071 L10.8001,19.6001 C10.6081,19.8551 10.3101,20.0001 10.0001,20.0001 C9.9191,20.0001 9.8381,19.9901 9.7571,19.9711 L5.7571,18.9711 C5.3121,18.8591 5.0001,18.4591 5.0001,18.0001 L5.0001,7.5311 L20.0001,4.1981 L20.0001,3.0001 Z"/>
 </svg>
