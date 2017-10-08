@@ -5,6 +5,7 @@
   "license": "MIT",
   "scripts": {
     "build": "babel lib -d build --copy-files",
+    "fixindex": "yarn build && node build/fixindex.js",
     "generate": "babel lib -d build --copy-files && node build/generate.js",
     "prepublish": "yarn generate",
     "readme": "yarn build && node build/make_readme.js"
