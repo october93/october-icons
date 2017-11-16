@@ -1,7 +1,6 @@
+# October Icons
 
-#October Icons
-
-| Name        |
+| Icon ID       |
 | ------------- |
 |000_arrow-forward|
 |001_bookmark-outline|
@@ -38,4 +37,8 @@
 |032_dismiss-outline|
 |033_dismiss|
 |034_check_circle|
+|035_comment|
+|036_link|
+|037_more-horizonal|
+|038_more-vertical|
 
