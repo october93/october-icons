@@ -17,7 +17,6 @@
 |012_feed|
 |013_insert-photo|
 |014_lightbulb|
-|015_logo-brand|
 |016_logo|
 |017_navigate-left|
 |018_navigate-right|
@@ -41,4 +40,19 @@
 |036_link|
 |037_more-horizonal|
 |038_more-vertical|
+|039_new-post|
+|040_star-circle|
+|042_write-post|
+|043_bold|
+|044_italic|
+|045_h2|
+|046_h3|
+|047_list-bullet|
+|048_list-number|
+|049_paragraph|
+|050_quote|
+|051_facebook|
+|052_hl|
+|053_hm|
+|054_hs|
 
