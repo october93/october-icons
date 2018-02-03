@@ -57,4 +57,5 @@
 |054_hs|
 |055_arrow-down|
 |056_code|
+|057_open-in-new|
 
