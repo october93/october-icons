@@ -2,7 +2,6 @@
 
 | Icon ID       |
 | ------------- |
-|000_arrow-forward|
 |001_bookmark-outline|
 |002_bookmark|
 |003_boost-inner|
@@ -58,4 +57,8 @@
 |055_arrow-down|
 |056_code|
 |057_open-in-new|
+|058_arrow-left|
+|059_arrow-right|
+|060_arrow-up|
+|061_email|
 
