@@ -61,4 +61,6 @@
 |059_arrow-right|
 |060_arrow-up|
 |061_email|
+|062_arrow-dropdown|
+|063_high-five|
 
