@@ -92,4 +92,10 @@
 |090_positive-arrow-filled|
 |091_positive-arrow-outline|
 |092_composer-prompt|
+|093_align-center|
+|094_align-left|
+|095_align-right|
+|096_paragraph-narrow|
+|097_paragraph-wide|
+|098_text-background|
 
