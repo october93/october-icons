@@ -8,7 +8,6 @@
     "fixindex": "yarn build && node build/fixindex.js",
     "generate": "babel lib -d build --copy-files && node build/generate.js",
     "copy-svgs": "cp src/*.svg dist",
-    "prepublish": "yarn generate && yarn copy-svgs",
     "readme": "yarn build && node build/make_readme.js"
   },
   "pre-commit": [],
