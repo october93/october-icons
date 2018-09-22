@@ -1,6 +1,6 @@
 {
   "name": "@october/october-icons",
-  "version": "0.0.79",
+  "version": "0.0.78",
   "main": "build/index.js",
   "license": "MIT",
   "scripts": {
@@ -8,6 +8,7 @@
     "fixindex": "yarn build && node build/fixindex.js",
     "generate": "babel lib -d build --copy-files && node build/generate.js",
     "copy-svgs": "cp src/*.svg dist",
+    "prepublish": "yarn generate && yarn copy-svgs",
     "readme": "yarn build && node build/make_readme.js"
   },
   "pre-commit": [],
