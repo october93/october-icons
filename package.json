@@ -1,0 +1,25 @@
+{
+  "name": "@october/october-icons",
+  "version": "0.0.88",
+  "main": "build/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "babel lib -d build --copy-files",
+    "fixindex": "yarn build && node build/fixindex.js",
+    "generate": "babel lib -d build --copy-files && node build/generate.js",
+    "copy-svgs": "cp src/*.svg dist",
+    "prepublish": "yarn generate && yarn copy-svgs",
+    "readme": "yarn build && node build/make_readme.js"
+  },
+  "pre-commit": [],
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-react-native": "^3.0.2",
+    "iconfont-builder": "^2.3.2",
+    "pre-commit": "^1.2.2"
+  },
+  "dependencies": {
+    "react-native-vector-icons": "^4.3.0"
+  }
+}
